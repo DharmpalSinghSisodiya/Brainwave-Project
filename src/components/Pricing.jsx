@@ -50,7 +50,7 @@ const Pricing = () => {
           <a
             className="text-xs font-code font-bold
               tracking-wider uppercase border-b"
-            href="/pricing"
+            href="#pricing"
           >
             See the full details
           </a>
